@@ -1,16 +1,12 @@
 ### Hi there 👋
-Hi there wave
 
-    technologist I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
-    card_index_dividers Watch my learning projects at pinned repositories.
-    speech_balloon If you are interested in me, I would be glad to have a conversation arrow_right artguk@protonmail.com
+    I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+    Watch my learning projects at pinned repositories.
+    If you are interested in me, I would be glad to have a conversation arrow_right bachraty.m@gmail.com
 
-toolbox Languages and Tools
-JavaScript  CSS  HTML  Webpack  NodeJS  npm  Git  GitHub  Linux  Windows  VSCode  ESLint Prietter 
-wrench Additional skills
-Adobe Photoshop  WordPress  RaspberryPi  Trello  Notion
 
-Top Langs
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
