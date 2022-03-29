@@ -1,9 +1,16 @@
 ### Hi there 👋
+Hi there wave
 
-<!--
-**mbachrat/mbachrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    technologist I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+    card_index_dividers Watch my learning projects at pinned repositories.
+    speech_balloon If you are interested in me, I would be glad to have a conversation arrow_right artguk@protonmail.com
 
-Here are some ideas to get you started:
+toolbox Languages and Tools
+JavaScript  CSS  HTML  Webpack  NodeJS  npm  Git  GitHub  Linux  Windows  VSCode  ESLint Prietter 
+wrench Additional skills
+Adobe Photoshop  WordPress  RaspberryPi  Trello  Notion
+
+Top Langs
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
