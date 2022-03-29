@@ -2,7 +2,7 @@
 
     I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
     Watch my learning projects at pinned repositories.
-    If you are interested in me, I would be glad to have a conversation arrow_right bachraty.m@gmail.com
+    If you are interested in me, I would be glad to have a conversation :arrow_right: bachraty.m@gmail.com
 
 
 
