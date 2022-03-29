@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+    <p>I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.</p>
     Watch my learning projects at pinned repositories.
     If you are interested in me, I would be glad to have a conversation :arrow_right: bachraty.m@gmail.com
 
